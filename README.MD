@@ -7,6 +7,22 @@
 - Same as crowd funding in the real world, you can create campaigns requiring minimum contribution.
 - The creator can propose how to use money and how much money is needed as a 'Request'.He cannot use money without more than 50% approvers in voting.
 
+## Screenshots
+***Home Page***
+![demo2](https://github.com/suveshmoza/CrowdCoin/blob/main/images/Campaigns.png)
+
+
+***Campaign Details***
+![demo1](https://github.com/suveshmoza/CrowdCoin/blob/main/images/CampaignDetails.png)
+
+
+***Create Request***
+![demo4](https://github.com/suveshmoza/CrowdCoin/blob/main/images/CreateRequest.png)
+
+
+***Request List***
+![demo5](https://github.com/suveshmoza/CrowdCoin/blob/main/images/RequestList.png)
+
 ### To Run the Project :
 
 Clone the repository by doing `git clone "https://github.com/suveshmoza/CrowdCoin.git"`
